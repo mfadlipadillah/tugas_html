@@ -1,0 +1,19 @@
+*{
+	text-shadow: 4px 4px 14px rgba(45,73,164,0.55);
+}
+#frmnama{
+  border-radius:2px;
+  box-shadow: 2px 2px 7px 1px rgba(28,110,164,0.47);
+  padding: 25px;
+  margin: 25px;
+}
+body{
+  padding: 25px;
+  margin: 25px;
+}
+h1{
+  color:#fff;
+  background-color:#888;
+  border-radius:2px;
+  box-shadow: 2px 2px 7px 1px rgba(28,110,164,0.47);
+}
